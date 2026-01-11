@@ -8,7 +8,11 @@ In this application, pose estimation provides normalized coordinates (x, y, z) o
 performance factors:
 
 -Real-time performance
+
 -High accuracy for upper-body landmarks
+
 -Works efficiently on CPU
+
 -Suitable for live virtual try-on systems
+
 
