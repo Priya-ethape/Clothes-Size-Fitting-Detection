@@ -6,6 +6,7 @@ Pose estimation is used to detect key human body landmarks from an image or vide
 In this application, pose estimation provides normalized coordinates (x, y, z) of body joints. These landmarks act as the foundation for calculating body measurements such as shoulder width and torso alignment, which are essential for clothing size estimation and placement.
 
 performance factors:
+
 -Real-time performance
 -High accuracy for upper-body landmarks
 -Works efficiently on CPU
